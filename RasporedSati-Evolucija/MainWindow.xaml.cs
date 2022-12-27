@@ -202,7 +202,6 @@ namespace RasporedSati_Evolucija
 				tocnoCheck.VerticalAlignment = VerticalAlignment.Center;
 				specificElements.Children.Add(tocnoCheck);
 			}
-			
 			//dodamo novonaravljeni grid(specificElements)
 			grid.Children.Add(specificElements);
 		}
