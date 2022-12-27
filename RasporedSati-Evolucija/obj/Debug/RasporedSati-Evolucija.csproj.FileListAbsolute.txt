@@ -1,0 +1,15 @@
+C:\Users\Jakov\source\repos\RasporedSati-Evolucija\RasporedSati-Evolucija\bin\Debug\RasporedSati-Evolucija.exe.config
+C:\Users\Jakov\source\repos\RasporedSati-Evolucija\RasporedSati-Evolucija\bin\Debug\RasporedSati-Evolucija.exe
+C:\Users\Jakov\source\repos\RasporedSati-Evolucija\RasporedSati-Evolucija\bin\Debug\RasporedSati-Evolucija.pdb
+C:\Users\Jakov\source\repos\RasporedSati-Evolucija\RasporedSati-Evolucija\obj\Debug\RasporedSati-Evolucija.csproj.AssemblyReference.cache
+C:\Users\Jakov\source\repos\RasporedSati-Evolucija\RasporedSati-Evolucija\obj\Debug\MainWindow.g.cs
+C:\Users\Jakov\source\repos\RasporedSati-Evolucija\RasporedSati-Evolucija\obj\Debug\App.g.cs
+C:\Users\Jakov\source\repos\RasporedSati-Evolucija\RasporedSati-Evolucija\obj\Debug\RasporedSati-Evolucija_MarkupCompile.cache
+C:\Users\Jakov\source\repos\RasporedSati-Evolucija\RasporedSati-Evolucija\obj\Debug\RasporedSati-Evolucija_MarkupCompile.lref
+C:\Users\Jakov\source\repos\RasporedSati-Evolucija\RasporedSati-Evolucija\obj\Debug\MainWindow.baml
+C:\Users\Jakov\source\repos\RasporedSati-Evolucija\RasporedSati-Evolucija\obj\Debug\RasporedSati-Evolucija.g.resources
+C:\Users\Jakov\source\repos\RasporedSati-Evolucija\RasporedSati-Evolucija\obj\Debug\RasporedSati_Evolucija.Properties.Resources.resources
+C:\Users\Jakov\source\repos\RasporedSati-Evolucija\RasporedSati-Evolucija\obj\Debug\RasporedSati-Evolucija.csproj.GenerateResource.cache
+C:\Users\Jakov\source\repos\RasporedSati-Evolucija\RasporedSati-Evolucija\obj\Debug\RasporedSati-Evolucija.csproj.CoreCompileInputs.cache
+C:\Users\Jakov\source\repos\RasporedSati-Evolucija\RasporedSati-Evolucija\obj\Debug\RasporedSati-Evolucija.exe
+C:\Users\Jakov\source\repos\RasporedSati-Evolucija\RasporedSati-Evolucija\obj\Debug\RasporedSati-Evolucija.pdb
