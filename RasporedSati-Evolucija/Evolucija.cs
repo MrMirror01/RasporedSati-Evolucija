@@ -40,24 +40,9 @@ namespace RasporedSati_Evolucija
 		//funkcija koja određuje koliko je dobar pojedini raspored
 		public static double Fitness(Raspored raspored)
 		{
-			int fitness = 0;
-
-			ArrayList pravila = new ArrayList()
-			{
-				new Pozicija(0, -1, 0, -2),
-				new Pozicija(0, -1, 1, -3),
-				new Pozicija(0, -1, 2, -3),
-				new Pozicija(0, -1, 3, -3),
-				new Pozicija(0, -1, 4, -3),
-				new Pozicija(0, -1, 5, -3),
-				new Pozicija(0, -1, 6, -1),
-				new Pozicija(-1, 5, -1, -3),
-				new Pozicija(1, -1, 0, 2),
-				new Pozicija(1, -1, 1, 1),
-				new Blok(-1, 2, 2, true)
-			};
+			int fitness = 0;			
 			
-			foreach (Pravilo pravilo in pravila)
+			foreach (Pravilo pravilo in Info.pravila)
 			{
 				fitness += pravilo.Check(raspored);
 			}

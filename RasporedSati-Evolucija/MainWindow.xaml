@@ -10,6 +10,8 @@
         <Label x:Name="debugOutput" Content="DEBUG" HorizontalAlignment="Left" VerticalAlignment="Top" Height="679" Width="421" FontFamily="Consolas" Margin="848,0,0,0"/>
         <ListBox x:Name="pravilaList" Height="495" Margin="10,10,0,0" VerticalAlignment="Top" Width="412" HorizontalAlignment="Left" HorizontalContentAlignment="Stretch"/>
         <Button x:Name="addPravioloButton" Content="Dodaj pravilo" HorizontalAlignment="Left" Margin="323,514,0,0" VerticalAlignment="Top" Width="99" Click="addPravioloButton_Click" Height="37"/>
+        <Button x:Name="loadPravilaButton" Content="Učitaj Pravila" HorizontalAlignment="Left" Margin="323,556,0,0" VerticalAlignment="Top" Width="99" Height="32" Click="loadPravilaButton_Click"/>
+        <Button x:Name="trenirajButton" Content="Treniraj" HorizontalAlignment="Left" Margin="323,593,0,0" VerticalAlignment="Top" Width="99" Height="28" Background="#FFE84E4E" Click="trenirajButton_Click"/>
 
     </Grid>
 </Window>
