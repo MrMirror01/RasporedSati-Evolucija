@@ -12,6 +12,7 @@
         <Button x:Name="addPravioloButton" Content="Dodaj pravilo" HorizontalAlignment="Left" Margin="323,514,0,0" VerticalAlignment="Top" Width="99" Click="addPravioloButton_Click" Height="37"/>
         <Button x:Name="loadPravilaButton" Content="Učitaj Pravila" HorizontalAlignment="Left" Margin="323,556,0,0" VerticalAlignment="Top" Width="99" Height="32" Click="loadPravilaButton_Click"/>
         <Button x:Name="trenirajButton" Content="Treniraj" HorizontalAlignment="Left" Margin="323,593,0,0" VerticalAlignment="Top" Width="99" Height="28" Background="#FFE84E4E" Click="trenirajButton_Click"/>
+        <Label Content="NEKAD SE DUPLICIRA MATEMATIKA AK DENEM PRAVILO&#xD;&#xA;Pozicija MAT, Bilo koji, 1  1 !!!!&#xD;&#xA;&#xD;&#xA;TODO: SLozi load za Blok u fileu Info.cs" HorizontalAlignment="Left" Height="122" Margin="520,173,0,0" VerticalAlignment="Top" Width="323"/>
 
     </Grid>
 </Window>
